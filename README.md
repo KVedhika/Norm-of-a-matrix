@@ -14,6 +14,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 # Developed By: K Vedhika
 
 #1-Norm of a Matrix
+
 <img width="859" height="555" alt="Screenshot 2026-10-24 085111" src="https://github.com/user-attachments/assets/821711e3-3104-442b-aa0a-555717c7062d" />
 
 # 2-Norm of a Matrix
